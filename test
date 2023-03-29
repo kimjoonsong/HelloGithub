@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main(void){
+  printf("Help me\n");
+   return 0;
+  }
+  
