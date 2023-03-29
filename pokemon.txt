@@ -1,0 +1,18 @@
+garchomp
+
+hp: 100
+atk: 120
+def: 108
+sp.atk: 80
+sp.def:90
+spd: 102
+
+role: phy.atk sweeper
+
+recommended nature: adamant
+
+recommended trait: likes to thrash about
+
+best move: earthquake, dragonclaw
+
+
